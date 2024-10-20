@@ -3,12 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uyarhamit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
