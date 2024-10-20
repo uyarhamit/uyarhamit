@@ -41,7 +41,7 @@
   <a href="https://stackoverflow.com/users/9027207/hamit" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=My%20Web%20Site&logo=tryhackme&label=&color=040404&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+  <img src="https://img.shields.io/static/v1?message=My%20Web%20Site&logo=tryhackme&label=&color=0077b5&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
 </div>
 
 ###
